@@ -1,0 +1,13 @@
+<map id="drivers/adc/adc_demo/iio_adc_demo.c" name="drivers/adc/adc_demo/iio_adc_demo.c">
+<area shape="rect" id="node1" title="Implementation of iio_adc_demo." alt="" coords="130,5,295,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="223,169,293,196"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Error codes definition." alt="" coords="117,95,221,121"/>
+<area shape="rect" id="node6" href="$iio__adc__demo_8h.html" title="Header file of ADC Demo iio." alt="" coords="301,95,425,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="131,169,199,196"/>
+<area shape="rect" id="node7" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="410,244,503,271"/>
+<area shape="rect" id="node11" href="$adc__demo_8h.html" title="Header file of ADC Demo Driver." alt="" coords="318,169,419,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="490,319,573,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="347,393,417,420"/>
+<area shape="rect" id="node10" href="$circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="299,319,465,345"/>
+</map>
