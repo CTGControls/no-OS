@@ -100,7 +100,7 @@ int32_t max_irq_ctrl_remove(struct irq_ctrl_desc *desc)
 /**
  * @brief Not implemented.
  * @param desc - The IRQ controller descriptor.
- * @param irq_id - Interrupt identifier.
+ * @param irq_id - Interrupt identifier.s
  * @param callback_desc - Descriptor of the callback.
  * @return -ENOSYS
  */
@@ -185,7 +185,7 @@ int32_t max_irq_disable(struct irq_ctrl_desc *desc, uint32_t irq_id)
 /**
  * @brief maxim specific IRQ platform ops structure
  */
-const struct irq_platform_ops irq_ops = {
+const struct irq_platform_ops max_irq_ops = {
 	.init = &max_irq_ctrl_init,
 	.register_callback = &max_irq_register_callback,
 	.unregister = &max_irq_unregister,
